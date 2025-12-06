@@ -7,19 +7,19 @@ int main()
     switch (marks)
     {
     case 81 ... 100:
-        printf("Excellent A+");
+        printf("GRADE : Excellent A+");
         break;
     case 71 ... 80:
-        printf("Very Good A");
+        printf("GRADE : Very Good A");
         break;
     case 61 ... 70:
-        printf("Good B");
+        printf("GRADE : Good B");
         break;
     case 41 ... 60:
-        printf("Average C");
+        printf("GRADE : Average C");
         break;
     case 40:
-        printf("Pass D");
+        printf("GRADE : Pass D");
         break;
     default:
         printf("You are Fail F");
