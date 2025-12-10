@@ -1,4 +1,4 @@
-// This program will print table of any desired number using for while loop
+// This program will print table of any desired number using  while loop
 #include <stdio.h>
 int main()
 {
