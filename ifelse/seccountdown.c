@@ -8,10 +8,10 @@ int main()
     while (n > 0)
     {
         printf("%d \n", n);
-        fflush(stdout);
         Sleep(1000);
         n--;
     }
     printf("Time's up ! \n");
+    fflush(stdout);
     return 0;
 }
